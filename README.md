@@ -153,6 +153,14 @@ Composition can even go a step further now:
   /* ... */
 }
 ```
+**0310-add-first-config-mode-none**
+
+module.exports = {
+  mode: "none"
+};
+
+
+
 
 ### Web Performance with Webpack Branches
 
