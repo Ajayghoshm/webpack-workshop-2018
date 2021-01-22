@@ -1,5 +1,4 @@
-# Webpack Academy Courses for Frontend Masters
-Code repository for the three Webpack courses recorded in 2018.
+# Webpack
 
 ## Video Courses:
 1. [Webpack 4 Fundamentals](https://frontendmasters.com/courses/webpack-fundamentals/) ([Slides](https://docs.google.com/presentation/d/1hFtMCMo62DgOIc-9OwgaVwPZHwv1cgMELArHcMbXlSI/edit#slide=id.g15e96ef847_0_0))
